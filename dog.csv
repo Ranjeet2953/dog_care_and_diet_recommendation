@@ -1,0 +1,21 @@
+Age,Weight,Height,Activity_Type,Activity_Duration,Agility_Level,Diet_Calories,Protein,Fats,Carbs,Meal_Frequency,Food
+3,25,50,Running,20,2,1200,50,40,150,2,Chicken and Brown Rice
+1,10,30,Walking,15,1,600,30,20,80,2,Salmon and Sweet Potato
+5,18,35,Agility Training,45,3,1500,70,50,180,3,Lamb and Oatmeal
+7,32,55,Hunting,60,4,2000,90,60,250,4,Beef and Barley
+2,12,32,Walking,10,1,500,25,15,70,2,Turkey and Pumpkin
+8,45,65,Running,30,3,2100,100,70,280,3,Duck and Quinoa
+10,35,60,Agility Training,50,4,2300,110,80,75,4,Chicken and Lentils
+4,22,40,Hunting,45,3,1600,80,50,300,3,Venison and Peas
+6,38,52,Walking,20,2,1300,60,45,200,4,Rabbit and Sweet Potato
+9,42,63,Running,60,4,2400,120,90,160,3,Salmon and Brown Rice
+2,15,33,Walking,25,1,700,35,25,320,2,Turkey and Brown Rice
+5,30,55,Agility Training,40,3,1800,85,65,90,4,Lamb and Barley
+8,50,67,Hunting,70,5,2700,130,100,230,2,Beef and Sweet Potato
+3,20,38,Running,15,2,1000,45,35,360,3,Duck and Brown Rice
+6,25,48,Walking,10,1,900,40,30,120,4,Venison and Lentils
+11,40,60,Agility Training,55,4,2200,110,85,110,2,Chicken and Pumpkin
+4,28,42,Hunting,30,3,1400,65,45,290,2,Rabbit and Barley
+9,45,64,Running,50,4,2500,115,95,180,4,Salmon and Oatmeal
+7,18,35,Walking,15,1,700,30,20,90,3,Turkey and Sweet Potato
+3,22,40,Agility Training,25,2,1300,55,40,160,4,Duck and Peas
